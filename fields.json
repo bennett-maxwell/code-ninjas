@@ -1,0 +1,917 @@
+{
+ "slug": "code-ninjas",
+ "brand": "Code Ninjas",
+ "field_count": 132,
+ "franchiseFee": 45000,
+ "totalInvestmentMin": 174250,
+ "totalInvestmentMax": 265750,
+ "royaltyPercent": "8.25%",
+ "adFee": "2.0%",
+ "totalUnits": 245,
+ "openLocations": 238,
+ "corporateCity": "Peachtree Corners",
+ "corporateState": "GA",
+ "corporateZip": "30092",
+ "corporateAddress": "3500 Parkway Lane, Suite 400, Peachtree Corners, GA 30092",
+ "description": "Code Ninjas is a child-focused education franchise founded in 2016, operating learning centers of 1,100 to 1,500 square feet teaching kids coding, programming, math, and STEM skills, plus a smaller Studio Center format. The franchisor, Code Ninjas, LLC of Peachtree Corners, Georgia, is majority-owned through private equity (Eagle Merchant Partners) and began franchising in November 2016. Per the 2026 FDD, a Learning Center franchise fee is $45,000 with total initial investment of $174,250 to $265,750, royalties of 8.25% of net sales plus a 2.0% marketing contribution, and a typical protected area of 1.5 to 2 miles. The system totaled 245 outlets at the end of 2025 (238 franchised, down from 284 in 2023) across 35 states; Item 19 reports 2025 average annual gross sales of $235,927 across 224 reporting locations.",
+ "category": "Education / STEM Learning",
+ "websiteUrl": "https://www.codeninjas.com",
+ "yearFounded": 2016,
+ "fddYear": 2026,
+ "territoryDescription": "Non-exclusive: a typical Protected Area encompasses a 1.5 to 2 mile radius around the Learning Center; no other Code Ninjas Learning Center will be established inside it while the franchisee is compliant; no sales quota required to keep it. Franchisor retains all other rights, including non-System businesses anywhere and e-commerce/retail distribution of products and services anywhere outside a Learning Center in the Protected Area.",
+ "item12": "protected",
+ "item20PinCount": 12,
+ "item20_fdd_count": 238,
+ "item20_reconciliation": "FDD Item 20 Table No. 1 (p.52): 238 franchised outlets as of 12/31/2025 (+7 company-owned = 245 total). The 12 pins below are FEATURED locations \u2014 real operational franchisees from the FDD Exhibit I List of Current Franchisees \u2014 not a complete map of all outlets.",
+ "hq_source": "FDD Item 1, p.1",
+ "risk_score": 36,
+ "risk_score_method": "base 20 +6 outlet contraction (284\u2192238 franchised, \u221216.2%, 2023\u20132025) +6 high attrition (2024: 8 terminations + 20 non-renewals = 28 of 262 start-year outlets; 2025: 13) +5 ongoing fee burden (8.25% royalty + 2.0% marketing + $2,000\u2013$2,500/mo local spend for 24 months then 4% of net sales + $350/mo tech + $350/mo agency) +4 capital intensity (ceiling $265,750; $45,750 to franchisor/affiliate) +2 PE control (Eagle Merchant Partners ultimate manager) \u22123 Item 19 disclosed (n=224, avg annual gross sales $235,927; sales-only, no profit) \u22122 audited financials attached (Exhibit G) \u22122 clean litigation/bankruptcy record (none disclosed, Items 3\u20134) = 36/100",
+ "pins": [
+  {
+   "city": "Chandler",
+   "state": "AZ",
+   "latitude": 33.3062031,
+   "longitude": -111.841185,
+   "pin_source": "FDD Exhibit I List of Current Franchisees: operational franchisee in Chandler, AZ; geocoded city centroid"
+  },
+  {
+   "city": "Altadena",
+   "state": "CA",
+   "latitude": 34.1928193,
+   "longitude": -118.1374663,
+   "pin_source": "FDD Exhibit I List of Current Franchisees: operational franchisee in Altadena, CA; geocoded city centroid"
+  },
+  {
+   "city": "Denver",
+   "state": "CO",
+   "latitude": 39.7392364,
+   "longitude": -104.984862,
+   "pin_source": "FDD Exhibit I List of Current Franchisees: operational franchisee in Denver, CO; geocoded city centroid"
+  },
+  {
+   "city": "Boynton Beach",
+   "state": "FL",
+   "latitude": 26.5289139,
+   "longitude": -80.058141,
+   "pin_source": "FDD Exhibit I List of Current Franchisees: operational franchisee in Boynton Beach, FL; geocoded city centroid"
+  },
+  {
+   "city": "Alpharetta",
+   "state": "GA",
+   "latitude": 34.0755962,
+   "longitude": -84.2945964,
+   "pin_source": "FDD Exhibit I List of Current Franchisees: operational franchisee in Alpharetta, GA; geocoded city centroid"
+  },
+  {
+   "city": "Frankfort",
+   "state": "IL",
+   "latitude": 41.4979467,
+   "longitude": -87.8495946,
+   "pin_source": "FDD Exhibit I List of Current Franchisees: operational franchisee in Frankfort, IL; geocoded city centroid"
+  },
+  {
+   "city": "Leawood",
+   "state": "KS",
+   "latitude": 38.966673,
+   "longitude": -94.6169012,
+   "pin_source": "FDD Exhibit I List of Current Franchisees: operational franchisee in Leawood, KS; geocoded city centroid"
+  },
+  {
+   "city": "Shreveport",
+   "state": "LA",
+   "latitude": 32.5135356,
+   "longitude": -93.7477839,
+   "pin_source": "FDD Exhibit I List of Current Franchisees: operational franchisee in Shreveport, LA; geocoded city centroid"
+  },
+  {
+   "city": "Edina",
+   "state": "MN",
+   "latitude": 44.8897027,
+   "longitude": -93.3501222,
+   "pin_source": "FDD Exhibit I List of Current Franchisees: operational franchisee in Edina, MN; geocoded city centroid"
+  },
+  {
+   "city": "Tulsa",
+   "state": "OK",
+   "latitude": 36.1563122,
+   "longitude": -95.9927516,
+   "pin_source": "FDD Exhibit I List of Current Franchisees: operational franchisee in Tulsa, OK; geocoded city centroid"
+  },
+  {
+   "city": "Portland",
+   "state": "OR",
+   "latitude": 45.5202471,
+   "longitude": -122.674194,
+   "pin_source": "FDD Exhibit I List of Current Franchisees: operational franchisee in Portland, OR; geocoded city centroid"
+  },
+  {
+   "city": "Austin",
+   "state": "TX",
+   "latitude": 30.2711286,
+   "longitude": -97.7436995,
+   "pin_source": "FDD Exhibit I List of Current Franchisees: operational franchisee in Austin, TX; geocoded city centroid"
+  }
+ ],
+ "breakdown": {
+  "absolute_cited": 118,
+  "theoretical": 6,
+  "matching": 8,
+  "total": 132
+ },
+ "fields": {
+  "franchisor_legal_name": {
+   "value": "Code Ninjas, LLC",
+   "type": "absolute",
+   "item": "FDD Item 1, pp.1-4",
+   "note": "cite: Item 1, pp.1-4"
+  },
+  "franchisor_entity_type": {
+   "value": "Texas limited liability company",
+   "type": "absolute",
+   "item": "FDD Item 1, pp.1-4",
+   "note": "cite: Item 1, pp.1-4"
+  },
+  "franchisor_formed_date": {
+   "value": "2016-08-17",
+   "type": "absolute",
+   "item": "FDD Item 1, pp.1-4",
+   "note": "cite: Item 1, pp.1-4"
+  },
+  "corporate_address": {
+   "value": "3500 Parkway Lane, Suite 400, Peachtree Corners, GA 30092",
+   "type": "absolute",
+   "item": "FDD Item 1, pp.1-4",
+   "note": "cite: Item 1, pp.1-4"
+  },
+  "corporate_phone": {
+   "value": "855.446.4652",
+   "type": "absolute",
+   "item": "FDD FDD cover, p.1",
+   "note": "cite: FDD cover, p.1"
+  },
+  "corporate_email": {
+   "value": "info@codeninjas.com",
+   "type": "absolute",
+   "item": "FDD FDD cover, p.1",
+   "note": "cite: FDD cover, p.1"
+  },
+  "corporate_city": {
+   "value": "Peachtree Corners",
+   "type": "absolute",
+   "item": "FDD Item 1, pp.1-4",
+   "note": "cite: Item 1, pp.1-4"
+  },
+  "corporate_state": {
+   "value": "GA",
+   "type": "absolute",
+   "item": "FDD Item 1, pp.1-4",
+   "note": "cite: Item 1, pp.1-4"
+  },
+  "corporate_zip": {
+   "value": "30092",
+   "type": "absolute",
+   "item": "FDD Item 1, pp.1-4",
+   "note": "cite: Item 1, pp.1-4"
+  },
+  "dba_name": {
+   "value": "Code Ninjas",
+   "type": "absolute",
+   "item": "FDD Item 1, pp.1-4",
+   "note": "cite: Item 1, pp.1-4"
+  },
+  "operates_other_concepts": {
+   "value": "No \u2014 conducts business under its corporate name and the name 'Code Ninjas'; does not do business under any other name",
+   "type": "absolute",
+   "item": "FDD Item 1, pp.1-4",
+   "note": "cite: Item 1, pp.1-4"
+  },
+  "parent_name": {
+   "value": "Code Ninjas Holdings LLC (immediate parent, sole member)",
+   "type": "absolute",
+   "item": "FDD Item 1, pp.1-4",
+   "note": "cite: Item 1, pp.1-4"
+  },
+  "grandparent_chain": {
+   "value": "EMP Ninja 2 LLC (majority owner of CN Holdings; 3060 Peachtree Road, Suite 360, Atlanta, GA 30305) \u2192 Eagle Merchant Partners (ultimate manager of EMP 2)",
+   "type": "absolute",
+   "item": "FDD Item 1, pp.1-4",
+   "note": "cite: Item 1, pp.1-4"
+  },
+  "pe_backing": {
+   "value": "Private-equity control: EMP Ninja 2 LLC owns the majority of CN Holdings' membership interests; Eagle Merchant Partners is the ultimate manager of EMP 2 and EMP 1",
+   "type": "absolute",
+   "item": "FDD Item 1, pp.1-4",
+   "note": "cite: Item 1, pp.1-4"
+  },
+  "affiliate_programs": {
+   "value": "Enviro-Master International Franchise, LLC (restroom hygiene); Renew Medic Franchising, LLC (cabinet restoration); Samco, LLC d/b/a Sam The Concrete Man (concrete repair); TCB AmeriSpec, LLC (home inspections); TCB Furniture Medic, LLC (furniture restoration); TCB Canada; TCB UK \u2014 all controlled with private equity funds managed by Eagle Merchant Partners; none sells goods/services similar to a Code Ninjas center in most cases",
+   "type": "absolute",
+   "item": "FDD Item 1, pp.1-4",
+   "note": "cite: Item 1, pp.1-4"
+  },
+  "affiliate_owned_centers": {
+   "value": "Affiliates own and operate Code Ninjas Learning Centers in California, Kansas, Massachusetts, and Texas",
+   "type": "absolute",
+   "item": "FDD Item 1, pp.1-4",
+   "note": "cite: Item 1, pp.1-4"
+  },
+  "predecessors": {
+   "value": "None",
+   "type": "absolute",
+   "item": "FDD Item 1, pp.1-4",
+   "note": "cite: Item 1, pp.1-4"
+  },
+  "brand_founded_year": {
+   "value": 2016,
+   "type": "absolute",
+   "item": "FDD Item 1, pp.1-4",
+   "note": "cite: Item 1, p.1 \u2014 formed August 17, 2016"
+  },
+  "franchisor_formed_year": {
+   "value": 2016,
+   "type": "absolute",
+   "item": "FDD Item 1, pp.1-4",
+   "note": "cite: Item 1, pp.1-4"
+  },
+  "year_franchising_began": {
+   "value": 2016,
+   "type": "absolute",
+   "item": "FDD Item 1, pp.1-4",
+   "note": "cite: Item 1, p.1 \u2014 began offering franchises November 2016"
+  },
+  "business_description": {
+   "value": "Learning centers providing child-focused educational programs, including subjects such as computer programming, coding, math, logic, reasoning skills, teamwork and other STEM-related activities; branded merchandise (t-shirts, hoodies, wrist bands)",
+   "type": "absolute",
+   "item": "FDD Item 1, pp.1-4",
+   "note": "cite: Item 1, pp.1-4"
+  },
+  "fdd_issue_date": {
+   "value": "2026-04-03",
+   "type": "absolute",
+   "item": "FDD FDD cover, p.1",
+   "note": "cite: FDD issuance date, p.1"
+  },
+  "ceo_name": {
+   "value": "Navin Gurnaney",
+   "type": "absolute",
+   "item": "FDD Item 2, p.4",
+   "note": "cite: Item 2, p.4"
+  },
+  "ceo_role": {
+   "value": "Chief Executive Officer since August 1, 2023; previously CEO of Tim Hortons India and Starbucks India; based in Atlanta, Georgia",
+   "type": "absolute",
+   "item": "FDD Item 2, p.4",
+   "note": "cite: Item 2, p.4"
+  },
+  "cfo_name": {
+   "value": "Adam Patterson",
+   "type": "absolute",
+   "item": "FDD Item 2, p.4",
+   "note": "cite: Item 2, p.4"
+  },
+  "cfo_since": {
+   "value": "Chief Financial Officer since December 2023; previously VP Finance at BCJ Building Services; based in Atlanta, Georgia",
+   "type": "absolute",
+   "item": "FDD Item 2, p.4",
+   "note": "cite: Item 2, p.4"
+  },
+  "cmo_name": {
+   "value": "Tyler Semerdjian",
+   "type": "absolute",
+   "item": "FDD Item 2, p.4",
+   "note": "cite: Item 2, p.4"
+  },
+  "cmo_since": {
+   "value": "Chief Marketing Officer since October 2025; previously CMO at Family Quest Entertainment; based in Encinitas, California",
+   "type": "absolute",
+   "item": "FDD Item 2, p.4",
+   "note": "cite: Item 2, p.4"
+  },
+  "cto_name": {
+   "value": "Archana Singh",
+   "type": "absolute",
+   "item": "FDD Item 2, p.4",
+   "note": "cite: Item 2, p.4"
+  },
+  "cto_since": {
+   "value": "Chief Technology Officer since November 2023; previously Assistant Director at Ernst & Young; based in Atlanta, Georgia",
+   "type": "absolute",
+   "item": "FDD Item 2, p.4",
+   "note": "cite: Item 2, p.4"
+  },
+  "vp_franchise_development": {
+   "value": "Michael Rodrigues \u2014 VP of Franchise Development since July 2024; based in Guilford, Connecticut",
+   "type": "absolute",
+   "item": "FDD Item 2, p.4",
+   "note": "cite: Item 2, p.4"
+  },
+  "vp_operations": {
+   "value": "Tim Klein \u2014 VP of Operations since October 2023; based in Austin, Texas",
+   "type": "absolute",
+   "item": "FDD Item 2, p.4",
+   "note": "cite: Item 2, p.4"
+  },
+  "vp_education_training": {
+   "value": "Edward Kim \u2014 VP, Education & Training since September 2023; based in Atlanta, Georgia",
+   "type": "absolute",
+   "item": "FDD Item 2, p.4",
+   "note": "cite: Item 2, p.4"
+  },
+  "litigation_disclosed": {
+   "value": "None \u2014 'No litigation must be disclosed in this Item.'",
+   "type": "absolute",
+   "item": "FDD Item 3, p.5",
+   "note": "cite: Item 3, p.5"
+  },
+  "litigation_pending_count": {
+   "value": 0,
+   "type": "absolute",
+   "item": "FDD Item 3, p.5",
+   "note": "cite: Item 3, p.5"
+  },
+  "bankruptcy_disclosed": {
+   "value": "None \u2014 'No bankruptcy information must be disclosed in this Item.'",
+   "type": "absolute",
+   "item": "FDD Item 4, p.5",
+   "note": "cite: Item 4, p.5"
+  },
+  "initial_franchise_fee": {
+   "value": 45000,
+   "type": "absolute",
+   "item": "FDD Item 5, p.6",
+   "note": "cite: Item 5, p.6"
+  },
+  "initial_franchise_fee_model": {
+   "value": "Learning Center: $45,000 (uniform for new franchisees, non-refundable, lump sum on signing). Studio Center: $35,000. In our last fiscal year ended December 31, 2025, Learning Center initial franchise fees collected ranged from $20,000 to $40,000",
+   "type": "absolute",
+   "item": "FDD Item 5, p.6",
+   "note": "cite: Item 5, p.6"
+  },
+  "franchise_fee_veteran_discount": {
+   "value": "10% discount from the initial franchise fee for qualified U.S. military veterans and active-duty personnel (51%+ owner if an entity); discount must be repaid on transfer within the first 2 years",
+   "type": "absolute",
+   "item": "FDD Item 5, p.6",
+   "note": "cite: Item 5, p.6"
+  },
+  "new_franchisee_training_fee": {
+   "value": "$750 per attendee, non-refundable, payable before Initial Management Training",
+   "type": "absolute",
+   "item": "FDD Item 5, p.6",
+   "note": "cite: Item 5, p.6"
+  },
+  "development_fee": {
+   "value": "$45,000 for the first Learning Center + $25,000 for each additional Learning Center under a Development Agreement (minimum 2 centers); lump sum, non-refundable; credited against each unit's initial franchise fee while compliant",
+   "type": "absolute",
+   "item": "FDD Item 5, p.6",
+   "note": "cite: Item 5, p.6"
+  },
+  "development_agreement_total_example": {
+   "value": "Three Learning Centers under a Development Agreement: development fee $95,750; total investment $224,250 to $315,750 (includes $95,750 paid to us or affiliate)",
+   "type": "absolute",
+   "item": "FDD Item 7, pp.15-20",
+   "note": "cite: FDD Item 7 Table C, p.18"
+  },
+  "preopening_minimum_royalty": {
+   "value": "$500 per month (pro-rated) for each month past the Opening Deadline until the Learning Center opens; franchisor retains termination rights",
+   "type": "absolute",
+   "item": "FDD Item 5, p.6",
+   "note": "cite: Item 5, p.6"
+  },
+  "royalty_learning_center": {
+   "value": "8.25% of Net Sales",
+   "type": "absolute",
+   "item": "FDD Item 6, pp.7-14",
+   "note": "cite: Item 6, pp.7-14"
+  },
+  "royalty_studio_center": {
+   "value": "12.25% of Net Sales",
+   "type": "absolute",
+   "item": "FDD Item 6, pp.7-14",
+   "note": "cite: Item 6, pp.7-14"
+  },
+  "marketing_contribution": {
+   "value": "2.0% of Net Sales to the Brand Marketing Development Fund",
+   "type": "absolute",
+   "item": "FDD Item 6, pp.7-14",
+   "note": "cite: Item 6, pp.7-14"
+  },
+  "marketing_advertising_expenses": {
+   "value": "$350/month (current) for the franchisor's in-house advertising agency producing/placing local digital marketing \u2014 mandatory; increases capped at 10% per calendar year; third-party placement costs are extra",
+   "type": "absolute",
+   "item": "FDD Item 6, pp.7-14",
+   "note": "cite: Item 6, pp.7-14"
+  },
+  "technology_fee": {
+   "value": "$350/month (current) covering technology services/licenses; may increase up to 10% per year; additional fees to third-party technology vendors",
+   "type": "absolute",
+   "item": "FDD Item 6, pp.7-14",
+   "note": "cite: Item 6, pp.7-14"
+  },
+  "additional_training_fee": {
+   "value": "Additional/repeat initial training: $750 per individual; ongoing/remedial training: $500\u2013$1,000 per day per trainer plus expenses",
+   "type": "absolute",
+   "item": "FDD Item 6, pp.7-14",
+   "note": "cite: Item 6, pp.7-14"
+  },
+  "convention_fee": {
+   "value": "If held: $750 per attendee (current); controlling-interest holder and Designated Principal must register and attend",
+   "type": "absolute",
+   "item": "FDD Item 6, pp.7-14",
+   "note": "cite: Item 6, pp.7-14"
+  },
+  "late_interest": {
+   "value": "1.5% per month on missed/overdue/insufficient payments",
+   "type": "absolute",
+   "item": "FDD Item 6, pp.7-14",
+   "note": "cite: Item 6, pp.7-14"
+  },
+  "renewal_fee": {
+   "value": "$3,500, due on signing the Renewal Agreement (instead of a new initial franchise fee)",
+   "type": "absolute",
+   "item": "FDD Item 6, pp.7-14",
+   "note": "cite: Item 6, pp.7-14"
+  },
+  "transfer_fee": {
+   "value": "$5,000 for a controlling ownership interest transfer; $2,500 for non-controlling interests or transfers to a wholly owned entity; no fee on death/disability transfer (out-of-pocket expenses reimbursed)",
+   "type": "absolute",
+   "item": "FDD Item 6, pp.7-14",
+   "note": "cite: Item 6, pp.7-14"
+  },
+  "relocation_fee": {
+   "value": "$5,000 plus reasonable expenses",
+   "type": "absolute",
+   "item": "FDD Item 6, pp.7-14",
+   "note": "cite: Item 6, pp.7-14"
+  },
+  "management_fee": {
+   "value": "$275 per day if the franchisor takes over temporary operation on death/incapacity of the Designated Principal",
+   "type": "absolute",
+   "item": "FDD Item 6, pp.7-14",
+   "note": "cite: Item 6, pp.7-14"
+  },
+  "noncompliance_fee": {
+   "value": "$500 per week for each week a default remains uncured",
+   "type": "absolute",
+   "item": "FDD Item 6, pp.7-14",
+   "note": "cite: Item 6, pp.7-14"
+  },
+  "audit_expense_rule": {
+   "value": "Franchisee reimburses inspection/audit expenses if Net Sales were understated by 2.0% or more (deemed materially inaccurate) or records not maintained",
+   "type": "absolute",
+   "item": "FDD Item 6, pp.7-14",
+   "note": "cite: Item 6, pp.7-14"
+  },
+  "liquidated_damages": {
+   "value": "Average monthly royalty + marketing contributions for the 24 months before termination (or months operated, if fewer) \u00d7 the lesser of 24 or months remaining in the term",
+   "type": "absolute",
+   "item": "FDD Item 6, pp.7-14",
+   "note": "cite: Item 6, pp.7-14"
+  },
+  "net_sales_definition": {
+   "value": "All revenue from the sale of all Services and Products and all other income related to, derived from, or originating from the Learning Center, including barter and business-interruption insurance proceeds; excluding sales taxes and good-faith refunds/discounts",
+   "type": "absolute",
+   "item": "FDD Item 6, pp.7-14",
+   "note": "cite: Item 6, pp.7-14"
+  },
+  "investment_min": {
+   "value": 174250,
+   "type": "absolute",
+   "item": "FDD Item 7, pp.15-20",
+   "note": "cite: Item 7, pp.15-20"
+  },
+  "investment_max": {
+   "value": 265750,
+   "type": "absolute",
+   "item": "FDD Item 7, pp.15-20",
+   "note": "cite: Item 7, pp.15-20"
+  },
+  "investment_model_note": {
+   "value": "Learning Center (Table A): $174,250 to $265,750, includes $45,750 paid to us or affiliate ($45,000 franchise fee + $750 training fee). Studio Center (Table B): $73,500 to $109,250, includes $35,750 paid to us or affiliate. Development (3 centers, Table C): $224,250 to $315,750",
+   "type": "absolute",
+   "item": "FDD Item 7, pp.15-20",
+   "note": "cite: Item 7, pp.15-20"
+  },
+  "grand_opening_min": {
+   "value": "$8,000 minimum for the grand opening marketing program (60 days before to 60 days after opening)",
+   "type": "absolute",
+   "item": "FDD Item 7, pp.15-20",
+   "note": "cite: Item 7, pp.15-20"
+  },
+  "prototype_sqft": {
+   "value": "Learning Center: 1,100 to 1,500 square feet; Studio Center: under 1,000 sq ft or hosted in third-party spaces (schools, community centers) with a 12-month host commitment",
+   "type": "absolute",
+   "item": "FDD Item 7, pp.15-20",
+   "note": "cite: FDD Item 1, p.3 + Item 7 note 4, p.19"
+  },
+  "buildout_cost_per_sqft": {
+   "value": "About $85 to $150 per square foot for 1,100\u20131,500 sq ft; construction $50,000\u2013$90,000; architect $1,500\u2013$5,000",
+   "type": "absolute",
+   "item": "FDD Item 7, pp.15-20",
+   "note": "cite: Item 7, pp.15-20"
+  },
+  "additional_funds_3mo": {
+   "value": "$20,000 to $30,000 for ongoing expenses during the 3-month start-up phase",
+   "type": "absolute",
+   "item": "FDD Item 7, pp.15-20",
+   "note": "cite: Item 7, pp.15-20"
+  },
+  "financing_offered": {
+   "value": "No \u2014 'We do not generally offer, directly or indirectly, any financing to you'; no guarantee of notes, leases, or obligations",
+   "type": "absolute",
+   "item": "FDD Item 10, p.26",
+   "note": "cite: Item 10, p.26"
+  },
+  "initial_training": {
+   "value": "Initial Management Training: Owners Training + Brand Management Training in the Atlanta metropolitan area or a location we specify; ~4 days for the Designated Principal or Center Director (per diem/travel estimate $375/person); New Franchisee Training Fee $750 per attendee",
+   "type": "absolute",
+   "item": "FDD Item 11, pp.26-33",
+   "note": "cite: FDD Item 11 + Exhibit A \u00a76.2 + Item 7 note 5, p.19"
+  },
+  "local_marketing_spend": {
+   "value": "Each Period: $2,000 to $2,500 per month for the first 24 months after opening; 4.0% of Net Sales from month 24 on \u2014 mandatory (Franchise Agreement \u00a713.1); no local advertising co-op currently required",
+   "type": "absolute",
+   "item": "FDD Item 11, pp.26-33",
+   "note": "cite: FDD Item 11, p.29 + Exhibit A \u00a713.1"
+  },
+  "brand_fund_spend_2025": {
+   "value": "FY2025 Brand Fund contributions used for: production of advertising/promotional materials (33%), media placement (33%), administrative expenses (33%)",
+   "type": "absolute",
+   "item": "FDD Item 11, pp.26-33",
+   "note": "cite: FDD Item 11, p.29"
+  },
+  "territory_exclusive": {
+   "value": "No \u2014 'You will not receive an exclusive territory.'",
+   "type": "absolute",
+   "item": "FDD Item 12, pp.34-36",
+   "note": "cite: Item 12, pp.34-36"
+  },
+  "territory_protected_area": {
+   "value": "Protected Area designated in the Franchise Agreement: a typical Protected Area encompasses a 1.5 to 2 mile radius around the Learning Center; franchisor will not establish/ license another Learning Center inside it while the franchisee is compliant",
+   "type": "absolute",
+   "item": "FDD Item 12, pp.34-36",
+   "note": "cite: Item 12, pp.34-36"
+  },
+  "territory_sales_quota": {
+   "value": "None \u2014 no sales/revenue volume required to keep the Protected Area; franchisor may not modify it while the franchisee is compliant",
+   "type": "absolute",
+   "item": "FDD Item 12, pp.34-36",
+   "note": "cite: Item 12, pp.34-36"
+  },
+  "franchisor_reserved_rights": {
+   "value": "Franchisor and affiliates retain all rights not granted, including: establishing Learning Centers outside the Protected Area; operating non-System businesses anywhere; acquiring/be acquired; selling Services/Products through any channel (e-commerce, retailers) anywhere except from a Learning Center inside the Protected Area",
+   "type": "absolute",
+   "item": "FDD Item 12, pp.34-36",
+   "note": "cite: Item 12, pp.34-36"
+  },
+  "territory_relocation": {
+   "value": "No right to relocate without prior written approval; requests evaluated under current site-selection criteria",
+   "type": "absolute",
+   "item": "FDD Item 12, pp.34-36",
+   "note": "cite: Item 12, pp.34-36"
+  },
+  "trademarks": {
+   "value": "CODE NINJAS \u2014 USPTO Reg. 5303101 (Oct 3, 2017), 5325349 (Oct 31, 2017), 7311069 (Feb 20, 2024); no effective USPTO/state/court determinations, no pending interference/opposition/cancellation, no agreements materially limiting use",
+   "type": "absolute",
+   "item": "FDD Item 13, p.37",
+   "note": "cite: Item 13, p.37"
+  },
+  "patents_copyrights": {
+   "value": "No patents; proprietary Brand Manual, curriculum, software, and trade dress; franchisee receives only a license to use the Proprietary Marks",
+   "type": "absolute",
+   "item": "FDD Item 14, p.38",
+   "note": "cite: FDD Item 14, p.38"
+  },
+  "owner_participation": {
+   "value": "Must participate in day-to-day management; entity owners must appoint a Designated Principal (\u226510% equity) who completes training and has full decision authority; if the principal is not full-time, employ a full-time Center Director who completed initial training",
+   "type": "absolute",
+   "item": "FDD Item 15, p.40",
+   "note": "cite: Item 15, p.40"
+  },
+  "sell_restrictions": {
+   "value": "Offer and sell only approved goods/services; offer all approved goods/services; services rendered only by trained personnel; retail sales only unless approved; franchisor may add authorized Products/Services with no limits",
+   "type": "absolute",
+   "item": "FDD Item 16, p.41",
+   "note": "cite: Item 16, p.41"
+  },
+  "franchise_term_years": {
+   "value": 10,
+   "type": "absolute",
+   "item": "FDD Item 17, pp.41-47",
+   "note": "cite: Item 17, pp.41-47"
+  },
+  "renewal_terms": {
+   "value": "3 additional 10-year terms by signing the then-current franchise agreement (terms may differ materially), subject to compliance, general release, and payment of the $3,500 renewal fee",
+   "type": "absolute",
+   "item": "FDD Item 17, pp.41-47",
+   "note": "cite: Item 17, pp.41-47"
+  },
+  "post_term_noncompete": {
+   "value": "2-year prohibition on engaging in a Competitive Business after expiration, termination, or transfer",
+   "type": "absolute",
+   "item": "FDD Item 17, pp.41-47",
+   "note": "cite: Item 17, pp.41-47"
+  },
+  "dispute_resolution": {
+   "value": "Non-binding mediation first (except injunctive relief); then litigation; waiver of jury trial; choice of forum: courts with jurisdiction over the franchisor's then-principal place of business; Georgia law governs",
+   "type": "absolute",
+   "item": "FDD Item 17, pp.41-47",
+   "note": "cite: Item 17, pp.41-47"
+  },
+  "governing_law": {
+   "value": "Georgia",
+   "type": "absolute",
+   "item": "FDD Item 17, pp.41-47",
+   "note": "cite: Item 17, pp.41-47"
+  },
+  "public_figures": {
+   "value": "None \u2014 'We do not use any public figures to promote our franchise.'",
+   "type": "absolute",
+   "item": "FDD Item 18, p.48",
+   "note": "cite: Item 18, p.48"
+  },
+  "item19_measurement_period": {
+   "value": "2025 calendar year",
+   "type": "absolute",
+   "item": "FDD Item 19, pp.48-51",
+   "note": "cite: Item 19, pp.48-51"
+  },
+  "item19_reporting_outlets": {
+   "value": 224,
+   "type": "absolute",
+   "item": "FDD Item 19, pp.48-51",
+   "note": "cite: FDD Item 19, p.49 \u2014 218 Learning Centers + 6 Studio Centers open all of 2025"
+  },
+  "item19_exclusions": {
+   "value": "Excluded: 1 center (temporary closure), 13 centers opened during 2025, 13 centers closed during 2025 (all open \u226512 months before closing)",
+   "type": "absolute",
+   "item": "FDD Item 19, pp.48-51",
+   "note": "cite: Item 19, pp.48-51"
+  },
+  "item19_avg_gross_sales_all": {
+   "value": 235927,
+   "type": "absolute",
+   "item": "FDD Item 19, pp.48-51",
+   "note": "cite: FDD Item 19 Table 1, p.49 \u2014 All, Overall"
+  },
+  "item19_median_gross_sales_all": {
+   "value": 215939,
+   "type": "absolute",
+   "item": "FDD Item 19, pp.48-51",
+   "note": "cite: Item 19, pp.48-51"
+  },
+  "item19_center_avg_gross_sales": {
+   "value": 236651,
+   "type": "absolute",
+   "item": "FDD Item 19, pp.48-51",
+   "note": "cite: FDD Item 19 Table 1 \u2014 Center Overall, n=218"
+  },
+  "item19_center_median_gross_sales": {
+   "value": 216122,
+   "type": "absolute",
+   "item": "FDD Item 19, pp.48-51",
+   "note": "cite: Item 19, pp.48-51"
+  },
+  "item19_center_max_gross_sales": {
+   "value": 730612,
+   "type": "absolute",
+   "item": "FDD Item 19, pp.48-51",
+   "note": "cite: Item 19, pp.48-51"
+  },
+  "item19_center_min_gross_sales": {
+   "value": 43091,
+   "type": "absolute",
+   "item": "FDD Item 19, pp.48-51",
+   "note": "cite: Item 19, pp.48-51"
+  },
+  "item19_studio_avg_gross_sales": {
+   "value": 209647,
+   "type": "absolute",
+   "item": "FDD Item 19, pp.48-51",
+   "note": "cite: FDD Item 19 Table 1 \u2014 Studio Overall, n=6"
+  },
+  "item19_studio_median_gross_sales": {
+   "value": 195865,
+   "type": "absolute",
+   "item": "FDD Item 19, pp.48-51",
+   "note": "cite: Item 19, pp.48-51"
+  },
+  "item19_avg_monthly_active_students": {
+   "value": 81,
+   "type": "absolute",
+   "item": "FDD Item 19, pp.48-51",
+   "note": "cite: FDD Item 19 Table 2, p.50 \u2014 Center Overall average monthly active students"
+  },
+  "item19_caveat": {
+   "value": "Costs are not included; sales-only data \u2014 no profit, cost, or expense figures; 'Some Code Ninjas Learning Centers and Studio Centers have earned these amounts. Your individual results may differ.'",
+   "type": "absolute",
+   "item": "FDD Item 19, pp.48-51",
+   "note": "cite: Item 19, pp.48-51"
+  },
+  "item20_franchised_2025": {
+   "value": 238,
+   "type": "absolute",
+   "item": "FDD Item 20, pp.52-58",
+   "note": "cite: FDD Item 20 Table No. 1, p.52"
+  },
+  "item20_company_owned_2025": {
+   "value": 7,
+   "type": "absolute",
+   "item": "FDD Item 20, pp.52-58",
+   "note": "cite: FDD Item 20 Table No. 4, p.57 \u2014 Kansas 0, Massachusetts 1, Missouri 0, Texas 6"
+  },
+  "item20_total_2025": {
+   "value": 245,
+   "type": "absolute",
+   "item": "FDD Item 20, pp.52-58",
+   "note": "cite: FDD Item 20 Table No. 1, p.52 \u2014 238 franchised + 7 company-owned"
+  },
+  "item20_net_change_2025": {
+   "value": -1,
+   "type": "absolute",
+   "item": "FDD Item 20, pp.52-58",
+   "note": "cite: FDD Item 20 Table No. 1, p.52 \u2014 239\u2192238 franchised"
+  },
+  "item20_net_change_2024": {
+   "value": -23,
+   "type": "absolute",
+   "item": "FDD Item 20, pp.52-58",
+   "note": "cite: FDD Item 20 Table No. 1, p.52 \u2014 262\u2192239"
+  },
+  "item20_net_change_2023": {
+   "value": -22,
+   "type": "absolute",
+   "item": "FDD Item 20, pp.52-58",
+   "note": "cite: FDD Item 20 Table No. 1, p.52 \u2014 284\u2192262"
+  },
+  "item20_outlet_decline_2023_2025": {
+   "value": "284 \u2192 238 franchised outlets (\u221246, \u221216.2%)",
+   "type": "absolute",
+   "item": "FDD Item 20, pp.52-58",
+   "note": "cite: Item 20, pp.52-58"
+  },
+  "item20_closures_2025": {
+   "value": "2 terminations, 8 non-renewals, 3 ceased operations (other) = 13 closures; 14 opened; transfers 16",
+   "type": "absolute",
+   "item": "FDD Item 20, pp.52-58",
+   "note": "cite: FDD Item 20 Tables No. 2-3, pp.52-57"
+  },
+  "item20_closures_2024": {
+   "value": "8 terminations, 20 non-renewals, 13 ceased operations (other) = 41 closures of 262 start-year outlets (15.6%); 18 opened",
+   "type": "absolute",
+   "item": "FDD Item 20, pp.52-58",
+   "note": "cite: FDD Item 20 Table No. 3 totals, p.57"
+  },
+  "item20_states_2025": {
+   "value": "35 states with \u22651 outlet at end-2025; largest: CA 51, FL 25, TX 24, NJ 17, IL 11, VA 10, GA 10; zero: MI, NE, SD, WY",
+   "type": "absolute",
+   "item": "FDD Item 20, pp.52-58",
+   "note": "cite: FDD Item 20 Table No. 3, pp.54-57"
+  },
+  "item20_count_discrepancy_note": {
+   "value": "Item 1 (p.1) states '237 Code Ninja franchises located within the United States' as of 12/31/2025 while Item 20 Table No. 1 (p.52) shows 238 franchised outlets at end-2025 \u2014 a 1-unit discrepancy, honestly recorded",
+   "type": "absolute",
+   "item": "FDD Item 20, pp.52-58",
+   "note": "cite: Item 20, pp.52-58"
+  },
+  "projected_openings": {
+   "value": "29 franchise agreements signed but outlet not opened; 22 projected new franchised outlets + 1 company-owned in the next fiscal year",
+   "type": "absolute",
+   "item": "FDD Item 20, pp.52-58",
+   "note": "cite: FDD Item 20 Table No. 5, p.58"
+  },
+  "franchisee_org": {
+   "value": "IACNF \u2014 Independent Association of Code Ninjas Franchisees, American Association of Franchisees and Dealers; 276 Hazard Avenue, Suite 11, Enfield, CT 06082; 619-209-3775; iacnf@aafdchapters.org",
+   "type": "absolute",
+   "item": "FDD Item 20, pp.52-58",
+   "note": "cite: FDD Item 20, p.58"
+  },
+  "financial_statements": {
+   "value": "Audited financial statements for fiscal years ending December 31, 2025, 2024, and 2023, attached as Exhibit G",
+   "type": "absolute",
+   "item": "FDD Item 21, p.59",
+   "note": "cite: Item 21, p.59"
+  },
+  "contracts_exhibit": {
+   "value": "Exhibit A: Franchise Agreement (Data Sheet; Guarantee; Principals; ACH; ADA; Site Selection; Lease Rider; Studio Center Rider); Exhibit B: Development Agreement; Exhibit E: General Release; Exhibit H: State-Specific Addenda; Exhibit K: Pre-Closing Franchisee Questionnaire",
+   "type": "absolute",
+   "item": "FDD Item 22, p.60",
+   "note": "cite: Item 22, p.60"
+  },
+  "receipts_exhibit": {
+   "value": "Receipts attached",
+   "type": "absolute",
+   "item": "FDD Item 23, p.60",
+   "note": "cite: FDD Item 23, p.60"
+  },
+  "netWorthRequirement": {
+   "value": "not disclosed in FDD",
+   "type": "absolute",
+   "item": "FDD FDD Item 7/cover \u2014 grep over source FDD text for 'net worth' returns 0 hits; no minimum net worth stated anywhere in the FDD",
+   "note": "cite: FDD Item 7/cover \u2014 grep over source FDD text for 'net worth' returns 0 hits; no minimum net worth stated anywhere in the FDD"
+  },
+  "netWorthRequirementNote": {
+   "value": "No net-worth requirement language exists in the disclosure document",
+   "type": "absolute",
+   "item": "FDD grep proof: 'net worth' x0 hits",
+   "note": "cite: grep proof: 'net worth' x0 hits"
+  },
+  "liquidCapitalRequirement": {
+   "value": "not disclosed in FDD",
+   "type": "absolute",
+   "item": "FDD FDD Item 7/cover \u2014 grep over source FDD text for 'liquid capital' and 'liquid assets' returns 0 hits; no minimum liquid capital stated anywhere in the FDD",
+   "note": "cite: FDD Item 7/cover \u2014 grep over source FDD text for 'liquid capital' and 'liquid assets' returns 0 hits; no minimum liquid capital stated anywhere in the FDD"
+  },
+  "liquidCapitalRequirementNote": {
+   "value": "No liquid-capital requirement appears anywhere in the disclosure document",
+   "type": "absolute",
+   "item": "FDD grep proof: 'liquid capital'/'liquid assets' x0 hits",
+   "note": "cite: grep proof: 'liquid capital'/'liquid assets' x0 hits"
+  },
+  "risk_score": {
+   "value": 36,
+   "type": "theoretical",
+   "item": "THEORETICAL \u2014 method: base 20 +6 outlet contraction (284\u2192238 franchised, \u221216.2%, 2023\u20132025) +6 high attrition (2024: 8 terminations + 20 non-renewals = 28 of 262 start-year outlets; 2025: 13) +5 ongoing fee burden (8.25% royalty + 2.0% marketing + $2,000\u2013$2,500/mo local spend for 24 months then 4% of net sales + $350/mo tech + $350/mo agency) +4 capital intensity (ceiling $265,750; $45,750 to franchisor/affiliate) +2 PE control (Eagle Merchant Partners ultimate manager) \u22123 Item 19 disclosed (n=224, avg annual gross sales $235,927; sales-only, no profit) \u22122 audited financials attached (Exhibit G) \u22122 clean litigation/bankruptcy record (none disclosed, Items 3\u20134) = 36/100"
+  },
+  "fee_burden_ratio_pct": {
+   "value": 26.3,
+   "type": "theoretical",
+   "item": "THEORETICAL \u2014 method: $45,750 (fee + training, paid to franchisor/affiliate) / $174,250 (Item 7 min investment) = 26.26%"
+  },
+  "ongoing_fee_burden_pct": {
+   "value": 10.25,
+   "type": "theoretical",
+   "item": "THEORETICAL \u2014 method: Learning Center royalty 8.25% + marketing contribution 2.0% = 10.25% of net sales ongoing, PLUS $2,000\u2013$2,500/mo local spend for 24 months then 4.0% of net sales (FA \u00a713.1), plus $350/mo tech and $350/mo agency"
+  },
+  "item19_confidence": {
+   "value": "MODERATE",
+   "type": "theoretical",
+   "item": "THEORETICAL \u2014 method: n=224 (94.1% of 238 franchised outlets), 2025 data, average/median/high/low disclosed \u2014 but gross-sales-only, no cost or profit figures"
+  },
+  "unit_growth_2023_2025_pct": {
+   "value": -16.2,
+   "type": "theoretical",
+   "item": "THEORETICAL \u2014 method: (238 \u2212 284) / 284 = \u221216.2% franchised outlet contraction, 2023\u20132025 (Item 20 Table No. 1)"
+  },
+  "litigation_risk_flag": {
+   "value": "LOW",
+   "type": "theoretical",
+   "item": "THEORETICAL \u2014 method: no litigation or bankruptcy disclosed (Items 3\u20134); one independent franchisee association exists (IACNF)"
+  },
+  "match_capital_min": {
+   "value": 174250,
+   "type": "matching",
+   "item": "MATCHING \u2014 method: Item 7 low-end Learning Center investment"
+  },
+  "match_capital_target": {
+   "value": 220000,
+   "type": "matching",
+   "item": "MATCHING \u2014 method: midpoint of Item 7 range ($174,250\u2013$265,750) = $220,000, labeled midpoint"
+  },
+  "match_experience": {
+   "value": "No specific prior experience required; franchisee selected on financial resources, educational/work background, and personality fit",
+   "type": "matching",
+   "item": "MATCHING \u2014 method: Item 1, p.3"
+  },
+  "match_operational": {
+   "value": "Hands-on: must participate in day-to-day management; Designated Principal with authority; full-time Center Director required if principal is not full-time on site",
+   "type": "matching",
+   "item": "MATCHING \u2014 method: Item 15, p.40"
+  },
+  "match_lifestyle": {
+   "value": "Not semi-absentee \u2014 active owner participation is required (encouraged daily; full-time director acceptable)",
+   "type": "matching",
+   "item": "MATCHING \u2014 method: Item 15, p.40"
+  },
+  "match_risk_appetite": {
+   "value": "Moderate: 10.25% ongoing fee burden plus fixed fees, $174K+ capital, contracting system, non-exclusive territory \u2014 offset by clean litigation record and PE backing",
+   "type": "matching",
+   "item": "MATCHING \u2014 method: risk inputs: Items 3, 6, 7, 12, 20"
+  },
+  "match_location": {
+   "value": "US; 1,100\u20131,500 sq ft learning center (retail/suburban centers) or Studio format under 1,000 sq ft / hosted; franchisor site and lease approval required",
+   "type": "matching",
+   "item": "MATCHING \u2014 method: Item 1 + Item 7 note 4"
+  },
+  "match_timeline": {
+   "value": "Open by the agreed Opening Deadline in the Franchise Agreement; $500/month minimum royalty fee for each month past the deadline until open",
+   "type": "matching",
+   "item": "MATCHING \u2014 method: Item 5, p.6"
+  }
+ },
+ "extractor": "code-ninjas-build (MapKI brand wave-2 next20, 2026-09-14)",
+ "extraction_timestamp_utc": "2026-09-14T17:37:34.800072+00:00",
+ "fdd_filename": "code-ninjas.pdf",
+ "fdd_sha256": "b2366b2ae9f677a870bddd81dab5d15a3322f4307318405c8cc0ba71626c7b81",
+ "live_url": "https://bennett-maxwell.github.io/code-ninjas/",
+ "netWorthRequirement": "not disclosed in FDD",
+ "netWorthRequirementNote": "grep over source FDD text for 'net worth' returns 0 hits; no minimum net worth is stated in the FDD",
+ "liquidCapitalRequirement": "not disclosed in FDD",
+ "liquidCapitalRequirementNote": "grep over source FDD text for 'liquid capital' and 'liquid assets' returns 0 hits; no minimum liquid capital is stated in the FDD",
+ "pinVerification": {
+  "method": "D4-08 per-pin geocode re-run (independent forward geocode of each labeled city/state; haversine vs plotted coordinate, 50 km tolerance)",
+  "run_utc": "2026-09-14T17:37:30.445887+00:00",
+  "passed": 12,
+  "total": 12
+ },
+ "pinsUpdatedAt": "2026-09-14T17:37:30.445887+00:00"
+}
